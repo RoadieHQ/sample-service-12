@@ -1,20 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sample-service-2
+  name: sample-service-12
   description: |
     A service for testing Backstage functionality. Configured for Circle CI
     and Rollbar.
   annotations:
-    github.com/project-slug: RoadieHQ/sample-service-2
+    github.com/project-slug: RoadieHQ/sample-service-12
 spec:
   type: library
   owner: User:dtuite
   lifecycle: incorrectvalue
   system: sample-system
-  providesApis:
-    - sample-service
-  consumesApis:
-    - spotify
-  dependencyOf:
-    - Component:sample-service-1
