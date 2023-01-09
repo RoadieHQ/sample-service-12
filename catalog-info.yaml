@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-service-3
+  title: Sample Service 3
+  annotations:
+    github.com/project-slug: RoadieHQ/sample-service-3
+spec:
+  type: documentation
+  owner: User:dtuite
+  lifecycle: deprecated
+  providesApis:
+    - sample-service
