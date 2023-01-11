@@ -5,6 +5,8 @@ metadata:
   description: |
     A service for testing Backstage functionality. Configured for Circle CI
     and Rollbar.
+  tags:
+    - demo
   annotations:
     github.com/project-slug: RoadieHQ/sample-service-12
 spec:
