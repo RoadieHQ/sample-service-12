@@ -1,7 +1,5 @@
-lastSecurityReview: 2022-11-13
-lastSecurityReviewStatus: passed
-lastSecurityReviewContact: pnorton
-lastReadmeReview: 2022-11-13
-readmeReviewed: passed
-lastPentested: 2022-11-09
-lastPentestStatus: failed
+lastPentestDate: 2022-11-13
+lastPentestStatus: passed
+lastPentestContact: pnorton
+lastReadmeReviewDate: 2022-11-13
+lastreadmeReviewScore: 4
