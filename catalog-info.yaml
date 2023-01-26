@@ -9,6 +9,7 @@ metadata:
     - demo
   annotations:
     github.com/project-slug: RoadieHQ/sample-service-12
+    pagerduty.com/service-id: PRNUNNH
 spec:
   type: library
   owner: User:dtuite
